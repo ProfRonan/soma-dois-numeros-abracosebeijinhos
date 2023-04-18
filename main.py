@@ -1,3 +1,3 @@
-a = int(input())
-b = int(input())
+Primeiro Número = int(input())
+Segundo Número = int(input())
 print(a+b)
