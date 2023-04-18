@@ -1,3 +1,4 @@
-Primeiro Número = int(input())
-Segundo Número = int(input())
-print(a+b)
+numberone = int(input())
+numbertwo = int(input())
+soma = numberone+numbertwo
+print(soma)
